@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+    id 'application'
+}
+
+group 'csci2020u'
+version '1.0'
+
+mainClassName = 'assignment1.CalculationMainClass'
+
+run{
+    standardInput = System.in
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+
+}
