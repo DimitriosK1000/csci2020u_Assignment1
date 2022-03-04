@@ -5,7 +5,7 @@ import java.lang.Math;
 // square calculator class
 public class CalculateSquare implements Calculator {
 
-    // overrides main function and takes the inputted number
+    // overrides main function and takes the inputted number from main method
     @Override
     public void calculate(int num) {
 

@@ -12,7 +12,7 @@ public class CalculationFactory {
             // instantiates class
             return new CalculateSquare();
 
-        // creates and calculates the square root if "sqareroot" is inputted
+        // creates and calculates the square root if "squareroot" is inputted
         }else if ("squareroot".equalsIgnoreCase(calctype)) {
 
             // instantiates class

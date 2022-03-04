@@ -5,7 +5,7 @@ import java.lang.Math;
 // calculate square root class
 public class CalculateSquareRoot implements Calculator {
 
-    // overrides main function and takes the inputted number
+    // overrides main function and takes the inputted number from main method
     @Override
     public void calculate(int num) {
 

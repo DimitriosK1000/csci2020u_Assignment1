@@ -11,7 +11,7 @@ public class CalculationMainClass {
         int calcnum = scan.nextInt();
         scan.close();
 
-        // creates new object CalculationFactory
+        // creates new object of CalculationFactory
         CalculationFactory calculationFactory = new CalculationFactory();
 
         // uses factory to choose which subclass to instantiate

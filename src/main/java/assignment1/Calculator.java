@@ -1,6 +1,6 @@
 package assignment1;
 
-// interface
+// interface class
 public interface Calculator {
 
     // main function
